@@ -54,6 +54,8 @@ the development version:
 Contact
 =======
 
-You are welcome to:   - submit suggestions and bug-reports at: <https://github.com/trinker/textproj/issues>   - send a pull request on: <https://github.com/trinker/textproj/>  
+You are welcome to:  
 
-- compose a friendly e-mail to: <tyler.rinker@gmail.com>
+-   submit suggestions and bug-reports at: <https://github.com/trinker/textproj/issues>  
+-   send a pull request on: <https://github.com/trinker/textproj/>  
+-   compose a friendly e-mail to: <tyler.rinker@gmail.com>
