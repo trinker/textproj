@@ -7,8 +7,6 @@ state and is being actively
 developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
 [![Build
 Status](https://travis-ci.org/trinker/textproj.svg?branch=master)](https://travis-ci.org/trinker/textproj)
-[![Coverage
-Status](https://coveralls.io/repos/trinker/textproj/badge.svg?branch=master)](https://coveralls.io/r/trinker/textproj?branch=master)
 <a href="https://img.shields.io/badge/Version-0.0.1-orange.svg"><img src="https://img.shields.io/badge/Version-0.0.1-orange.svg" alt="Version"/></a>
 </p>
 <img src="inst/textproj_logo/r_textproj.png" width="200" alt="textproj Logo">
