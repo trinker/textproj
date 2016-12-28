@@ -15,7 +15,7 @@ Status](https://travis-ci.org/trinker/textproj.svg?branch=master)](https://travi
 one function, `text_project`. It creates the following structure of
 subdirectories and files:
 
-    tempalte
+    template
         |
         |   .Rproj
         |   
