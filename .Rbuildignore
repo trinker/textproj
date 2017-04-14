@@ -15,7 +15,11 @@ README.Rmd
 README.R
 travis.yml
 inst/maintenance.R
-inst/textproj_logo
+Thumbs.db
+tools/textproj_logo/r_textproja.png
+tools/textproj_logo/r_textproj.pptx
+tools/textproj_logo/resize_icon.txt
+inst/staticdocs
 inst/staticdocs
 inst/extra_statdoc
 

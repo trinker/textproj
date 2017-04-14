@@ -19,7 +19,7 @@ verbadge <- sprintf('<a href="https://img.shields.io/badge/Version-%s-orange.svg
 [![Coverage Status](https://coveralls.io/repos/trinker/textproj/badge.svg?branch=master)](https://coveralls.io/r/trinker/textproj?branch=master)
 `r verbadge`
 
-<img src="inst/textproj_logo/r_textproj.png" width="200" alt="textproj Logo">  
+![](tools/textproj_logo/r_textproj.png)
 
 **textproj** is a project template for text projects.  The package has one function, `text_project`.  It creates the following structure of subdirectories and files:
 

@@ -11,7 +11,7 @@ Status](https://travis-ci.org/trinker/textproj.svg?branch=master)](https://travi
 Status](https://coveralls.io/repos/trinker/textproj/badge.svg?branch=master)](https://coveralls.io/r/trinker/textproj?branch=master)
 <a href="https://img.shields.io/badge/Version-0.0.1-orange.svg"><img src="https://img.shields.io/badge/Version-0.0.1-orange.svg" alt="Version"/></a>
 </p>
-<img src="inst/textproj_logo/r_textproj.png" width="200" alt="textproj Logo">
+![](tools/textproj_logo/r_textproj.png)
 
 **textproj** is a project template for text projects. The package has
 one function, `text_project`. It creates the following structure of
@@ -54,8 +54,7 @@ the development version:
 Contact
 =======
 
-You are welcome to:  
+You are welcome to:  -   submit suggestions and bug-reports at:     <https://github.com/trinker/textproj/issues>  
 
--   submit suggestions and bug-reports at: <https://github.com/trinker/textproj/issues>  
 -   send a pull request on: <https://github.com/trinker/textproj/>  
 -   compose a friendly e-mail to: <tyler.rinker@gmail.com>

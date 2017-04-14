@@ -2,11 +2,10 @@
 % Please edit documentation in R/textproj-package.R
 \docType{package}
 \name{textproj}
-\alias{package-textproj}
 \alias{textproj}
+\alias{package-textproj}
 \alias{textproj-package}
 \title{Text Project Template}
 \description{
 A project template for text projects.
 }
-
