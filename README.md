@@ -1,4 +1,4 @@
-textproj
+textproj   [![Follow](https://img.shields.io/twitter/follow/tylerrinker.svg?style=social)](https://twitter.com/intent/follow?screen_name=tylerrinker)
 ============
 
 
@@ -9,6 +9,7 @@ developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repo
 Status](https://travis-ci.org/trinker/textproj.svg?branch=master)](https://travis-ci.org/trinker/textproj)
 <a href="https://img.shields.io/badge/Version-0.0.1-orange.svg"><img src="https://img.shields.io/badge/Version-0.0.1-orange.svg" alt="Version"/></a>
 </p>
+
 ![](tools/textproj_logo/r_textproj.png)
 
 **textproj** is a project template for text projects. The package has
@@ -31,8 +32,8 @@ subdirectories and files:
 Table of Contents
 ============
 
--   [[Installation](#installation)](#[installation](#installation))
--   [[Contact](#contact)](#[contact](#contact))
+-   [Installation](#installation)
+-   [Contact](#contact)
 
 Installation
 ============
@@ -52,7 +53,7 @@ the development version:
 Contact
 =======
 
-You are welcome to:  -   submit suggestions and bug-reports at:     <https://github.com/trinker/textproj/issues>  
-
--   send a pull request on: <https://github.com/trinker/textproj/>  
--   compose a friendly e-mail to: <tyler.rinker@gmail.com>
+You are welcome to:    
+- submit suggestions and bug-reports at: <https://github.com/trinker/textproj/issues>    
+- send a pull request on: <https://github.com/trinker/textproj/>    
+- compose a friendly e-mail to: <tyler.rinker@gmail.com>    
