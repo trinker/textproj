@@ -7,8 +7,8 @@ Maintainer: Tyler Rinker <tyler.rinker@gmail.com>
 Description: A project template for text projects.
 Depends: R (>= 3.2.3)
 Imports: utils
-Suggests: testthat
-Date: 2017-04-14
+Suggests:
+    testthat
 License: GPL-2
 LazyData: TRUE
 Roxygen: list(wrap = FALSE)
